@@ -13,6 +13,7 @@ The Pagirinya Satellite House online documents are strictly for the purpose of r
 
 ## Reporting a Vulnerability
 
-Incase of any vulnerability, please do this;
+Incase of any vulnerability, 
+Please open up and issue, and discussions WI be made upon and when we'll reviewed, it will be adopted.
 
-Open up a new issue to help share the whole issue together as a team, and if rejected, please accept the fact and we move on, but if accepted, you will be notified and the change will appear before your forked repository etc.
+
