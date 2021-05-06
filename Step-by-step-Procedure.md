@@ -40,10 +40,20 @@ Tools Used: Pit Axe, Hoe, Metallic Sinking Rod, Panga and Spade.
   The mortar component however is being achieved using a number of subsequent task as describe below. 
   1. Setting up the framework, the frame is the desired blue print that the mortared was is going to take, this was done using plain board of 200cmX100cm dimension. 
      This boards were hammered along a strong to prevent it from falling during the compression process. Below is the image of the framework setup
+     ![GitHub Logo](![GitHub Logo](https://github.com/The-Youth-Empowerment-Foundation-Adju/Pagirinya-Satellite-House/blob/main/connecting%20the%20board.JPG)
+     ![GitHub Logo](![GitHub Logo](https://github.com/The-Youth-Empowerment-Foundation-Adju/Pagirinya-Satellite-House/blob/main/seting%20the%20frame.JPG)
+     ![GitHub Logo](![GitHub Logo](https://github.com/The-Youth-Empowerment-Foundation-Adju/Pagirinya-Satellite-House/blob/main/suporting%20the%20framework.JPG)
+     
   2. Filling and compressing the wall, this was done after the framework layout was strengthen. The mortar was made of stone dust, clay soil, Maram, sand and cement, mixed in 
      the ratio of 2:2:2:2 wheelbarrow and bags respectively. The mixture was made with little water to just make it moist so that they can stick together unlike the watery one. 
      The moist or damp mortar is being poured in the framework and compressed firmly using locally made wooden hand compressor.
+      ![GitHub Logo](![GitHub Logo](https://github.com/The-Youth-Empowerment-Foundation-Adju/Pagirinya-Satellite-House/blob/main/filling%20the%20mixture%20into%20the%20framework.jpg)
+     ![GitHub Logo](![GitHub Logo](https://github.com/The-Youth-Empowerment-Foundation-Adju/Pagirinya-Satellite-House/blob/main/rambering.JPG)
+     
   3.	Uncovering the wall, after about four hours, the framework made of board is removed and the real wall structure left to stand as below.
+      ![GitHub Logo](![GitHub Logo](https://github.com/The-Youth-Empowerment-Foundation-Adju/Pagirinya-Satellite-House/blob/main/uncovering.JPG)
+      After series of repeating the processes, the whole structure obtained is as shown below.
+      ![GitHub Logo](![GitHub Logo](https://github.com/The-Youth-Empowerment-Foundation-Adju/Pagirinya-Satellite-House/blob/main/wall.jpg)
   Material Used: Maram, Stone dust, clay soil, sand soil and cement
   Tools Used: Spade, Wheel Barrow, Hoe, Wooden compression tool, Wooden Pole, Plain Board (Honor Plex Brand) and watering can  
 
