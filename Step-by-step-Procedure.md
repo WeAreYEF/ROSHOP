@@ -1,8 +1,8 @@
 # THE CONSTRUCTION OF PROTOTYPE STEP BY STEP DESCRIPTION
 
-The Pagirinya Satellite house to be prototype was designed in Canada by the Peter under r0g Agencies’ ASKnet project. 
-This building follows a design adopted from Ghanaian Company that uses local material to build eco-friendly houses made of cheap local material that include Maram, stone dust, 
-clay soil, sand soil and very little cement to give the structure strength and a water proof layer.
+The Pagirinya Satellite house to be prototype was designed under the mentorship of Canadian architect Peter Treuheit together with the YEF - Youth Empowerment Foundation community as part of the #ASKnet programme initiated by r0g_agency for open culture and critical transformation. 
+This building, which aims to explore ways to create modular, easy to build, well lit and aerated community houses follows design elements adopted from many soruces including Ghanaian designs that use local materials to build eco-friendly houses made of cheap local material that include maram, stone dust, 
+clay soil, sand soil and very little cement to give the structure strength and a water proof layer. No clay bricks, which use large amounts of wood for burning is used. 
 
 *Below are images showing the full view of the Architectural drawing side.*
 *NB All efforts are geared towards acheiving the design above*
