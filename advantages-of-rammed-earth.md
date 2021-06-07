@@ -21,7 +21,7 @@ several thousands of years, as many still-standing ancient rammed earth structur
 failure caused by earthquakes or heavy storms. Mixing cement with the soil mixture can also increase the structure's load bearing capacity but can only be used in clay-poor 
 mixtures thus community of all categories can sustainably afford to raise a structure as a shelter from this technology.
 
-### Creative outlook even with Painting, 
+### Creative outlook even without Painting, 
 when finished and without paint, the walls have the color and texture of natural earth with Blemishes of various soil color to induce creative look to the structure 
 thus eliminating the cost of painting with impairing the creative beauty of the building.
 
