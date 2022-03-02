@@ -24,3 +24,5 @@ To be model institution and resource center of excellenance in technology and op
 
 ## Goal
 To promote an epping, skilling refugee youth with technology
+
+# "WELCOME TO PAGIRINYA SATELLITE A CENTER OF KNOWLEDGE AND SKILLS WITH A FIRST EVER WELSTOCKED ARCHITECTURE LIBRARY ACROSS THE GLOBE"
