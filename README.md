@@ -30,5 +30,5 @@ To promote an epping, skilling refugee youth with technology
 
 
 # origin;ROSHOP-Responsive Open Source Modular Housing Prototype
-## detailed [](https://www.google.com/imgres?imgurl=https://cdn.demos.mediaarchitecture.org/site_media/media/jurysys/media/53/0_norm.jpg&imgrefurl=https://demos.mediaarchitecture.org/mab/project/53&docid=PrQkAEdAe3gnjM&tbnid=6mtXUkRcx4Q_4M&vet=1&w=640&h=360&hl=en-US&source=sh/x/im)
+## detailed ![](https://www.google.com/imgres?imgurl=https://cdn.demos.mediaarchitecture.org/site_media/media/jurysys/media/53/0_norm.jpg&imgrefurl=https://demos.mediaarchitecture.org/mab/project/53&docid=PrQkAEdAe3gnjM&tbnid=6mtXUkRcx4Q_4M&vet=1&w=640&h=360&hl=en-US&source=sh/x/im)
 
