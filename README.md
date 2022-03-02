@@ -8,7 +8,7 @@ Pagirinya Satellite House is a sustainable ICT enhanced Social Network Space (SN
 - Peacebuilding 
 - MIL (media & information literacy)
 - career inspiration and life skills. 
-
+![](after construction.jpg)
 The aim of the satellite is to strengthen YEF’s activities in the region for a collective social mobilization as a strategy for empowering the youth to embrace active participation in; 
 - peace 
 - non-violence and reconciliation dialogues. 
@@ -26,3 +26,5 @@ To be model institution and resource center of excellenance in technology and op
 To promote an epping, skilling refugee youth with technology
 
 ### "WELCOME TO PAGIRINYA SATELLITE A CENTER OF KNOWLEDGE AND SKILLS WITH A FIRST EVER WELSTOCKED ARCHITECTURE LIBRARY ACROSS THE GLOBE"
+# other activities;
+
