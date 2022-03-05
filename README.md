@@ -27,9 +27,9 @@ To promote an epping, skilling refugee youth with technology
 
 [activities](https://raw.githubusercontent.com/chardso/Pagirinya-Satellite-House/main/Activities%20of%20PSH.md)
 
-![images]()
-https://github.com/chardso/Pagirinya-Satellite-House/tree/main/images
-### "WELCOME TO PAGIRINYA SATELLITE A CENTER OF KNOWLEDGE AND SKILLS WITH A FIRST EVER WELSTOCKED ARCHITECTURE LIBRARY ACROSS THE GLOBE"
+![](https://raw.githubusercontent.com/chardso/Pagirinya-Satellite-House/main/images/At%20_some%20_angle.JPG)
+
+### "WELCOME  TO PAGIRINYA SATELLITE A CENTER OF KNOWLEDGE AND SKILLS WITH A FIRST EVER WELSTOCKED ARCHITECTURE LIBRARY ACROSS THE GLOBE"
 # other activities;
 
 
