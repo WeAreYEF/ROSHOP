@@ -28,10 +28,10 @@ To promote an epping, skilling refugee youth with technology
 [activities](https://raw.githubusercontent.com/chardso/Pagirinya-Satellite-House/main/Activities%20of%20PSH.md)
 
 
-### "WELCOME  TO PAGIRINYA SATELLITE A CENTER OF KNOWLEDGE AND SKILLS WITH A FIRST EVER WELSTOCKED ARCHITECTURE LIBRARY ACROSS THE GLOBE"
-# other activities;
+### "*WELCOME  TO PAGIRINYA SATELLITE A CENTER OF KNOWLEDGE AND SKILLS WITH A FIRST EVER WELSTOCKED ARCHITECTURE LIBRARY ACROSS THE GLOBE*"
+
 
 
 # origin;ROSHOP-Responsive Open Source Modular Housing Prototype
-## detailed [ROSHOP](https://demos.mediaarchitecture.org/mab/project/53)
+## For detailed[ROSHOP](https://demos.mediaarchitecture.org/mab/project/53)
 
