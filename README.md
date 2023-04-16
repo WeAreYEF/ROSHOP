@@ -20,3 +20,4 @@ Developed by use of open source tools and platforms, such as Git and GitHub that
 
 - [ROSHOP by Critical Makers](https://wikifactory.com/+criticalmaking/roshop)
 
+- [#ROSHOP by YEF ](https://yef-uganda.org/pagirinya-satellite-project/)
