@@ -5,7 +5,7 @@
 
 The Responsive Open Source Modular Housing Prototype `#ROSHOP` Modular House is a media and digital culture informed housing prototype for complex post-conflict and politically unstable environments, responsive to refugee, IDP and resource scarce needs.
 
-Developed by use of open source tools and platforms, such as Git and GitHub that allowed local on site builders and contributors to collaborate with global peers to develop more efficient and easy to build housing prototypes, especially for community use – embracing citizen’s participation, strengthening community well-being. Sharing the building methodologies, allows adaptation and further development of the prototypes to support both the rapid development of quality buildings as well as the critical learning of the requisite skills to do so.
+Developed by use of open source tools and platforms, such as Git and GitHub that allowed local on-site builders and contributors to collaborate with global peers to develop more efficient and easy to build housing prototypes, especially for community use – embracing citizen’s participation, strengthening community well-being. Sharing the building methodologies, allows adaptation and further development of the prototypes to support both the rapid development of quality buildings as well as the critical learning of the requisite skills to do so.
 
 ### <u>**Descriptions**</u>
 
