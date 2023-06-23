@@ -1,4 +1,5 @@
 ## ROSHOP-Responsive Open Source Modular Housing Prototype
+Modular House is a media and digital culture informed housing prototype for complex post-conflict and politically unstable environments, responsive to refugee, IDP and resource scarce needs. It was created at  Pagirinya  Refugee Settlement, as response to urgent community-use housing needs.
 
 ### Pagirinya-Satellite-House
 ![](images/roshop.jpg)
@@ -47,8 +48,11 @@ The Satellite will act as a workshop type entity making a new shifts with determ
 
 ## Please Check this out;
 <ul>
-<li><a href="https://github.com/WeAreYEF/pagirinya-satelite-house">PAGarchLibrary</a></li>
-<li><a href="https://wikifactory.com/+criticalmaking/roshop">Critical Making Repository</a></li>
-<li><a href="https://demos.mediaarchitecture.org/mab/project/53)">Media Architechture</a></li>
+<li><a href="https://github.com/WeAreYEF/pagirinya-satelite-house">Pagirinya Satellite House Repository</a></li>
+<li><a href="https://github.com/WeAreYEF/PAGarchLibrary">Pagirinya Architecture Library</a></li>
+<li><a href="https://wikifactory.com/+criticalmaking/roshop">Wiki Factory Repository</a></li>
+<li><a href="https://demos.mediaarchitecture.org/mab/project/53)">Media Architechture - Sharing architectural prototyping and refugee innovation knowledge using GitHub</a></li>
 </ul>
 
+## Credits
+This is project by YEF, Pagriniya Refugee Settlement (Uganda), in collaboration with r0g_agency for open culture and critical transformation gGmbH, under (Berlin) funded by means of the German Federal Ministry for Economic Cooperation and Development (BMZ)
