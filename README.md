@@ -1,17 +1,11 @@
-# ROSHOP-Responsive Open Source Modular Housing Prototype
-# Pagirinya-Satellite-House
-![](gallery.jpg)
+## ROSHOP-Responsive Open Source Modular Housing Prototype
+# Pagirinya-Satellite-House - 
 
-## We had fun!
-<video src="https://wikifactory.com/files/RmlsZTo5MDE2MTU=" controls="controls" style="max-width: 730px;"> video</video>
-<video width="320" height="240" controls>
-  <source src="https://wikifactory.com/files/RmlsZTo5MDE2MTU=" type="video/mp4">
-</video>
 
 ## Summery
 This building, which aims to explore ways to create modular, easy to build, well lit and aerated community houses follows design elements adopted from many soruces including Ghanaian designs that use local materials to build eco-friendly houses made of cheap local material that include maram, stone dust, clay soil, sand soil and very little cement to give the structure strength and a water proof layer. No clay bricks, which use large amounts of wood for burning is used.
 
-![](gallery.jpg)
+![](images/roshop.jpg)
 
 ## Architectural elements:
 
