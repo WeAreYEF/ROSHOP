@@ -52,9 +52,11 @@ The Satellite will act as a workshop type entity making a new shifts with determ
 <li><a href="https://github.com/WeAreYEF/PAGarchLibrary">Pagirinya Architecture Library</a></li>
 <li><a href="https://wikifactory.com/+criticalmaking/roshop">Wiki Factory Repository</a></li>
 <li><a href="https://demos.mediaarchitecture.org/mab/project/53)">Media Architechture - Sharing architectural prototyping and refugee innovation knowledge using GitHub</a></li>
+<li><a href="https://wikifactory.com/+criticalmaking/stories/roshop">#ROSHOP Published by +criticalmaking</a></li>
 </ul>
-- [#ROSHOP Published by +criticalmaking](https://wikifactory.com/+criticalmaking/stories/roshop)
 
 ## Credits
 This is project by YEF, Pagriniya Refugee Settlement (Uganda), in collaboration with r0g_agency for open culture and critical transformation gGmbH, under (Berlin) funded by means of the German Federal Ministry for Economic Cooperation and Development (BMZ)
+Licensed under a Creative Commons Attribution-ShareAlike 4.0 Unported License (CC BY-SA 4.0)
+
 
