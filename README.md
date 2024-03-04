@@ -52,7 +52,7 @@ The Satellite will act as a workshop type entity making a new shifts with determ
 <li><a href="https://github.com/WeAreYEF/PAGarchLibrary">Usecase of the YEF building: Pagirinya Architecture Library</a></li>
 <li><a href="https://demos.mediaarchitecture.org/mab/project/53">Poster and methodology design concept article: Media Architechture - Sharing architectural prototyping and refugee innovation knowledge using GitHub</a></li>
 <li><a href="https://wikifactory.com/+criticalmaking/stories/roshop">#ROSHOP Published Story by +criticalmaking Wikifactory</a></li>
-<li><a href="https://wikifactory.com/+criticalmaking/roshop">Extra: Wikifactory Documentation for "Critical Making"</a></li>
+<li><a href="https://wikifactory.com/+criticalmaking/projects/roshop">Extra: Wikifactory Documentation for "Critical Making"</a></li>
 </ul>
 
 ## Credits
